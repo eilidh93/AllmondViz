@@ -1,0 +1,35 @@
+# AllmondViz
+Heatmap visualisation tool for viral metagenomic data
+
+<font size="5">AllmondViz is a way of displaying viral metagenomic data in heatmap form.<br> It can be used as a way of visualising viral diversity, along with multiple other sorting options, within a sample or between multiple samples.<br><br>
+
+<br>
+AllmondViz is designed to follow on from the following pipeline: <br>
+
+	1. Sequencing of metagenomic sample<br>
+	2. Trimming of reads<br>
+	3. Alignment of reads against host to remove host reads<br>
+	4. Remove bacteria reads with DIAMOND blastx<br>
+	5. De novo assembly of reads into contigs<br>
+	6. Classification of contigs using DIAMOND blastx<br>
+	7. File extended to include taxonID, length, family name and genus name<br></font size="5">
+<br>
+<b><h2>FEATURES</h2></b>
+<font size="5">
+	-Display by either Family or Genus <br>
+	-Sort by contig length, number of contigs, evalue and percentage of genome size<br>
+	-Clustering based on contigs present<br>
+	-Different colour schemes<br>
+	-View contigs by clicking on elements of the heatmap and extracting the sequences of these contigs by selecting the contig file <br>
+	-Option to exlude contigs under a specified length, bacteriophages and anything that does not infect invertebrates<br>
+	-Saving the heatmap image<br></font size="5">
+<br>
+<b><h2>INPUT</h2></b> 
+
+	Input is a tab delimited text file with 16 columns<br>
+
+	Contig ID | Seq-ID | % Identical Matches | Alignment Length | No. Mismatches | No. Gap Openings | Start(query) | End(qeury) | Start(subject) | End(subject) | eValue | Bit Score | TaxonID | Contig Length | Family Name | Genus Name |
+<br>
+<b><h2>INSTRUCTIONS</h2></b>
+<font size="5">
+First click the 'Open' button and select the Allmond pipeline output files. This will display the data in heatmap form. To add extra samples in click the 'Add' button.<br>To change how the data is scaled/the colouring/exclude contigs, select the desired options from the left hand panel.<br>To save the heatmap image in PNG format, click the 'Save' button at the bottom of the GUI.<br>To view the contigs represented by a rectangle, either hover the mouse over it. To display them on the side panel, click on the rectangle.<br>To save these contigs as a text file list, click the 'Export contigs' button.<br>To reset the heatmap and clear the display, click the 'Reset' button.
