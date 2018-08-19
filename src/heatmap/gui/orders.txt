@@ -1,0 +1,211 @@
+﻿Ackermannviridae	Caudovirales	dsDNA	
+Adenoviridae	Unassigned	dsDNA	
+Alloherpesviridae	Herpesvirales 	dsDNA	
+Alphaflexiviridae	Tymovirales 	ssRNA(+)	
+Alphasatellitidae	Unassigned	ssDNA	
+Alphatetraviridae	Unassigned	ssRNA(+)	
+Alvernaviridae	Unassigned	ssRNA(+)	
+Amalgaviridae	Unassigned	dsRNA	
+Ampullaviridae	Architaenioglossa 	Unassigned	
+Anelloviridae	Unassigned	ssDNA	
+Arenaviridae	Unassigned	ssRNA(-)	
+Arteriviridae	Nidoviridae	ssRNA(+)	
+Ascoviridae	Unassigned	dsDNA	
+Asfarviridae	Unassigned	dsDNA	
+Aspiviridae	Unassigned	ssRNA(-)	
+Astroviridae	Unassigned	ssRNA(+)	
+Avsunviroidae	Viroids	Circular ssRNA	
+Bacilladnaviridae	Unassigned	ssDNA	
+Bacillus virus vB_BsuM-Goe3	Unassigned	Unassigned	
+Baculoviridae	Unassigned	dsDNA	
+Barnaviridae	Unassigned	ssRNA(+)	
+Belpaoviridae	Ortervirales	ssRNA(RT)	
+Benyviridae	Unassigned	ssRNA(+)	
+Betaflexiviridae	Tymovirales 	ssRNA(+)	
+Bicaudaviridae	Unassigned	dsDNA	
+Bidnaviridae	Unassigned	ssDNA	
+Birnaviridae	Unassigned	dsRNA	
+Bornaviridae	Mononegavirales	ssRNA(-)	
+Bromoviridae	Unassigned	ssRNA(+)	
+Bunyavirales	Bunyavirales	ssRNA(-)	
+Caliciviridae	Unassigned	ssRNA(+)	
+Carmotetraviridae	Unassigned	ssRNA(+)	
+Caudovirales	Caudovirales	dsDNA	
+Caulimoviridae	Ortervirales	dsDNA(RT)	
+Chrysoviridae	Unassigned	dsRNA	
+Circoviridae	Unassigned	ssDNA	
+Circular single stranded RNA satellites	Unassigned	Circular ssRNA	
+Clavaviridae	Unassigned	dsDNA	
+Closteroviridae	Unassigned	ssRNA(+)	
+Coronaviridae	NidoVirales	ssRNA(+)	
+Corticoviridae	Unassigned	dsDNA	
+Cruciviridae	Unassigned	Unassigned	
+Cystoviridae	Unassigned	dsRNA	
+DNA viruses	Unassigned	DNA	
+Deltaflexiviridae	Tymovirales 	ssRNA(+)	
+Dicistroviridae	Picornavirales	ssRNA(+)	
+Double-stranded RNA satellites	Unassigned	dsRNA	
+Endornaviridae	Unassigned	dsRNA	
+Feraviridae	Bunyavirales	ssRNA(-)	
+Filoviridae	Mononegavirales	ssRNA(-)	
+Fimoviridae	Bunyavirales	ssRNA(-)	
+Flaviviridae	Unassigned	ssRNA(+)	
+Fusariviridae	Unassigned	Unassigned	
+Fuselloviridae	Unassigned	dsDNA	
+Gammaflexiviridae	Tymovirales 	ssRNA(+)	
+Geminiviridae	Unassigned	ssDNA	
+Genomoviridae	Unassigned	ssDNA	
+Globuloviridae	Unassigned	dsDNA	
+Guttaviridae	Unassigned	dsDNA	
+Haloviruses	Unassigned	dsDNA	
+Hantaviridae	Bunyavirales	ssRNA(-)	
+Hepadnaviridae	Unassigned	dsDNA(RT)	
+Hepeviridae	Unassigned	ssRNA(+)	
+Herpesvirales	Herpesvirales 	dsDNA	
+Herpesviridae	Herpesvirales 	dsDNA	
+Hypoviridae	Unassigned	dsRNA	
+Hytrosaviridae	Unassigned	dsDNA	
+Iflaviridae	Picornavirales	ssRNA(+)	
+Inoviridae	Unassigned	ssDNA	
+Iridoviridae	Unassigned	dsDNA	
+Jonviridae	Bunyavirales	ssRNA(-)	
+Large single stranded RNA satellites	Unassigned	ssRNA	
+Lavidaviridae	Unassigned	dsDNA	
+Leviviridae	Unassigned	ssRNA(+)	
+Ligamenvirales	Ligamenvirales	dsDNA	
+Lipothrixviridae	Ligamenvirales	dsDNA	
+Luteoviridae	Unassigned	ssRNA(+)	
+M satellites of Saccharomyces L-A virus	Unassigned	dsRNA	
+Malacoherpesviridae	Herpesvirales 	dsDNA	
+Marnaviridae	Picornavirales	ssRNA(+)	
+Marseilleviridae	Unassigned	dsDNA	
+Megabirnaviridae	Unassigned	dsRNA	
+Mesoniviridae	Nidovirales	ssRNA(+)	
+Metaviridae	Ortervirales	ssRNA(RT)	
+Microviridae	Unassigned	ssDNA	
+Mimiviridae	Unassigned	dsDNA	
+Mononegavirales	Mononegavirales	ssRNA(-)	
+Mymonaviridae	Mononegavirales	ssRNA(-)	
+Myoviridae	Caudovirales	dsDNA	
+Nairoviridae	Bunyavirales	ssRNA(-)	
+Nanoviridae	Unassigned	ssDNA	
+Narnaviridae	Unassigned	ssRNA(+)	
+Nidovirales	Nidovirales	ssRNA(+)	
+Nimaviridae	Unassigned	dsDNA	
+Nodaviridae	Unassigned	ssRNA(+)	
+Nudiviridae	Unassigned	dsDNA	
+Nyamiviridae	Mononegavirales	ssRNA(-)	
+Ortervirales	Ortervirales	Unassigned	
+Orthomyxoviridae	Unassigned	ssRNA(-)	
+Papillomaviridae	Unassigned	dsDNA	
+Paramyxoviridae	Mononegavirales	ssRNA(-)	
+Partitiviridae	Unassigned	dsRNA	
+Parvoviridae	Unassigned	ssDNA	
+Peribunyaviridae	Bunyavirales	ssRNA(-)	
+Permutotetraviridae	Unassigned	ssRNA(+)	
+Phasmaviridae	Bunyavirales	ssRNA(-)	
+Phenuiviridae	Bunyavirales	ssRNA(-)	
+Phycodnaviridae	Unassigned	dsDNA	
+Picobirnaviridae	Unassigned	dsRNA	
+Picornavirales	Picornavirales	ssRNA(+)	
+Picornaviridae	Picornavirales	ssRNA(+)	
+Pithoviridae	Unassigned	dsDNA	
+Plasmaviridae	Unassigned	dsDNA	
+Pleolipoviridae	Unassigned	ssDNA	
+Pneumoviridae	Mononegavirales	ssRNA(-)	
+Podoviridae	Caudovirales	dsDNA	
+Polycipiviridae	Picornavirales	ssRNA(+)	
+Polydnaviridae	Unassigned	dsDNA	
+Polyomaviridae	Unassigned	dsDNA	
+Portogloboviridae	Unassigned	dsDNA	
+Pospiviroidae	Viroids	Circular ssRNA	
+Potyviridae	Unassigned	ssRNA(+)	
+Poxviridae	Unassigned	dsDNA	
+Pseudoviridae	Ortervirales	ssRNA(RT)	
+Quadriviridae	Unassigned	dsRNA	
+RNA satellites	Unassigned	Unassigned	
+Reoviridae	Unassigned	dsRNA	
+Retro-transcribing viruses	Ortervirales	ssRNA(RT)	
+Retroviridae	Ortervirales	ssRNA(RT)	
+Rhabdoviridae	Mononegavirales	ssRNA(-)	
+Roniviridae	Nidovirales	ssRNA(+)	
+Rudiviridae	Ligamenvirales	Unassigned	
+Sarthroviridae	Unassigned	ssRNA(+)	
+Satellite Nucleic Acids	Unassigned	Satellite	
+Satellite Viruses	Unassigned	Satellite	
+Satellites	Unassigned	Satellite	
+Secoviridae	Picornavirales	ssRNA(+)	
+Single stranded DNA satellites	Unassigned	ssDNA	
+Single stranded RNA satellites	Unassigned	ssRNA	
+Siphoviridae	Caudovirales	dsDNA	
+Smacoviridae	Unassigned	ssDNA	
+Smacovirusgroup	Unassigned	ssDNA	
+Small linear single stranded RNA satellites	Unassigned	ssRNA	
+Solemoviridae	Unassigned	ssRNA(+)	
+Solinviviridae	Unassigned	ssRNA(+)	
+Sphaerolipoviridae	Unassigned	dsDNA	
+Spiraviridae	Unassigned	ssDNA	
+Statovirus	Unassigned	Unassigned	
+Sunviridae	Mononegavirales	ssRNA(-)	
+Tectiviridae	Unassigned	dsDNA	
+Tobacco necrosis satellite virus-like	Unassigned	ssRNA(+)	
+Togaviridae	Unassigned	ssRNA(+)	
+Tolecusatellitidae	Unassigned	Satellite	
+Tombusviridae	Unassigned	ssRNA(+)	
+Tospoviridae	Bunyavirales	ssRNA(-)	
+Totiviridae	Unassigned	dsRNA	
+Tristromaviridae	Unassigned	dsDNA	
+Turriviridae	Unassigned	dsDNA	
+Tymovirales	Tymovirales 	ssRNA(+)	
+Tymoviridae	Tymovirales 	ssRNA(+)	
+Unassigned	Unassigned	Unassigned	
+Virgaviridae	Unassigned	ssRNA(+)	
+Viroids	Unassigned	Viroid	
+Virus-associated RNAs	Unassigned	non-coding RNA	
+Viruses	Unassigned	Unassigned	
+dsDNA viruses, no RNA stage	Unassigned	dsDNA	
+dsRNA viruses	Unassigned	dsRNA	
+environmental samples	Unassigned	Unassigned	
+ssDNA satellites	Unassigned	ssDNA	
+ssDNA viruses	Unassigned	ssRNA(-)	
+ssRNA negative-strand viruses	Unassigned	ssRNA(-)	
+ssRNA positive-strand viruses, no DNA stage	Unassigned	ssRNA(+)	
+ssRNA viruses	Unassigned	ssRNA	
+unassigned Mononegavirales	Mononegavirales	Unassigned	
+unassigned Picornavirales	Picornavirales	Unassigned	
+unassigned ssRNA negative-strand viruses	Unassigned	ssRNA(-)	
+unassigned ssRNA viruses	Unassigned	ssRNA	
+unassigned viruses	Unassigned	Unassigned	
+unclassified Bunyavirales	Bunyavirales	Unassigned	
+unclassified Caudovirales	Caudovirales	Unassigned	
+unclassified Double-stranded satellite RNAs	Unassigned	dsRNA	
+unclassified Flexiviridae	Tymovirales 	ssRNA(-)	
+unclassified Herpesvirales	Herpesvirales 	Unassigned	
+unclassified Mononegavirales	Mononegavirales	Unassigned	
+unclassified Nidovirales	Nidovirales	Unassigned	
+unclassified Picornavirales	Picornavirales	Unassigned	
+unclassified RNA viruses	Unassigned	Unassigned	
+unclassified RNA viruses ShiM-2016	Unassigned	Unassigned	
+unclassified Satellite Nucleic Acids	Unassigned	Unassigned	
+unclassified Satellite Viruses	Unassigned	Unassigned	
+unclassified Single stranded DNA satellites	Unassigned	ssDNA	
+unclassified Single stranded RNA satellites	Unassigned	ssRNA	
+unclassified Tobacco necrosis satellite virus-like	Unassigned	Unassigned	
+unclassified Tymovirales	Tymovirales 	Unassigned	
+unclassified archaeal dsDNA viruses	Unassigned	dsDNA	
+unclassified archaeal viruses	Unassigned	Unassigned	
+unclassified bacterial viruses	Unassigned	Unassigned	
+unclassified dsDNA phages	Unassigned	dsDNA	
+unclassified dsDNA viruses	Unassigned	dsDNA	
+unclassified dsRNA viruses	Unassigned	dsRNA	
+unclassified retroid viruses	Ortervirales	Unassigned	
+unclassified ssDNA bacterial viruses	Unassigned	ssDNA	
+unclassified ssDNA satellites	Unassigned	ssDNA	
+unclassified ssDNA viruses	Unassigned	ssDNA	
+unclassified ssRNA negative-strand viruses	Unassigned	ssRNA(-)	
+unclassified ssRNA positive-strand viruses	Unassigned	ssRNA(+)	
+unclassified ssRNA viruses	Unassigned	ssRNA	
+unclassified viroids	Unassigned	Unassigned	
+unclassified virophages	Unassigned	Unassigned	
+unclassified viruses	Unassigned	Unassigned	
+uncultured environmental isolates	Unassigned	Unassigned

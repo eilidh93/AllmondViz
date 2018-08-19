@@ -1,0 +1,211 @@
+Ackermannviridae	4	156199.5	156199.5	4
+Adenoviridae	4	33870	33870	4
+Alloherpesviridae	4	163619	163619	4
+Alphaflexiviridae	7	7253.571429	7253.571429	7
+Alphasatellitidae	11	1143.909091	1143.909091	11
+Alphatetraviridae	2	4536.5	4536.5	2
+Alvernaviridae	1	4375	4375	1
+Amalgaviridae	1	3437	3437	1
+Ampullaviridae	1	23814	23814	1
+Anelloviridae	12	2847.833333	2847.833333	12
+Arenaviridae	3	9940	4970	6
+Arteriviridae	5	14079	14079	5
+Ascoviridae	2	138132.5	138132.5	2
+Asfarviridae	20	184462.1	184462.1	20
+Aspiviridae	1	11278	3759.333333	3
+Astroviridae	2	6908	6908	2
+Avsunviroidae	3	305.6666667	305.6666667	3
+Bacilladnaviridae	3	5526	5526	3
+Bacillus virus vB_BsuM-Goe3	1	5000	5000	1
+Baculoviridae	5	116363.6	116363.6	5
+Barnaviridae	1	4009	4009	1
+Belpaoviridae	1	7627	7627	1
+Benyviridae	1	15914	3182.8	5
+Betaflexiviridae	11	7108.181818	7108.181818	11
+Bicaudaviridae	1	62730	62730	1
+Bidnaviridae	1	12567	6283.5	2
+Birnaviridae	4	6140.25	3070.125	8
+Bornaviridae	2	8857	8857	2
+Bromoviridae	6	8417.833333	2805.944444	18
+Bunyavirales	13	13226.30769	4298.55	40
+Caliciviridae	5	7651.4	7651.4	5
+Carmotetraviridae	1	6155	6155	1
+Caudovirales	238	78554.10084	78554.10084	238
+Caulimoviridae	8	8017.375	8017.375	8
+Chrysoviridae	1	12640	3160	4
+Circoviridae	2	1807	1807	2
+Circular single stranded RNA satellites	1	1479	1479	1
+Clavaviridae	1	5278	5278	1
+Closteroviridae	4	16278.5	13022.8	5
+Coronaviridae	6	26810.83333	20108.125	8
+Corticoviridae	1	10079	10079	1
+Cruciviridae	1	3729	3729	1
+Cystoviridae	1	13385	4461.666667	3
+DNA viruses	10	7231.6	7231.6	10
+Deltaflexiviridae	1	8178	8178	1
+Dicistroviridae	3	9228.666667	9228.666667	3
+Double-stranded RNA satellites	1	1479	1479	1
+Endornaviridae	2	12232.5	12232.5	2
+Feraviridae	1	12739	4246.333333	3
+Filoviridae	4	19027.75	19027.75	4
+Fimoviridae	1	12282	3070.5	4
+Flaviviridae	15	9775.333333	9775.333333	15
+Fusariviridae	1	6379	6379	1
+Fuselloviridae	2	15574.5	15574.5	2
+Gammaflexiviridae	1	6827	6827	1
+Geminiviridae	34	2907.088235	2824.028571	35
+Genomoviridae	9	2191.333333	2191.333333	9
+Globuloviridae	1	28337	28337	1
+Guttaviridae	0	0	0	0
+Haloviruses	1	32189	32189	1
+Hantaviridae	1	11845	3948.333333	3
+Hepadnaviridae	21	3158.095238	3158.095238	21
+Hepeviridae	10	7231.6	7231.6	10
+Herpesvirales	19	163250.6316	96930.0625	32
+Herpesviridae	13	156025.3077	78012.65385	26
+Hypoviridae	1	12734	12734	1
+Hytrosaviridae	2	157155.5	157155.5	2
+Iflaviridae	1	9650	9650	1
+Inoviridae	7	7149.857143	7149.857143	7
+Iridoviridae	5	144700	144700	5
+Jonviridae	1	14098	4699.333333	3
+Large single stranded RNA satellites	1	1479	1479	1
+Lavidaviridae	2	18703	18703	2
+Leviviridae	2	3892	3892	2
+Ligamenvirales	4	32251.5	32251.5	4
+Lipothrixviridae	3	31185.33333	31185.33333	3
+Luteoviridae	3	5789.333333	5789.333333	3
+M satellites of Saccharomyces L-A virus	1	1935	1935	1
+Malacoherpesviridae	2	209478.5	209478.5	2
+Marnaviridae	1	8587	8587	1
+Marseilleviridae	1	368454	368454	1
+Megabirnaviridae	1	16111	8055.5	2
+Mesoniviridae	1	20192	20192	1
+Metaviridae	2	6489.5	6489.5	2
+Microviridae	5	5269.6	5269.6	5
+Mimiviridae	2	899501	899501	2
+Mononegavirales	48	13398.9375	12862.98	50
+Mymonaviridae	1	10002	10002	1
+Myoviridae	67	129487.7463	129487.7463	67
+Nairoviridae	1	17143	8571.5	2
+Nanoviridae	2	6190.5	1031.75	12
+Narnaviridae	1	2514	2514	1
+Nidovirales	13	21361.92308	18513.66667	15
+Nimaviridae	1	309286	309286	1
+Nodaviridae	2	4534	2267	4
+Nudiviridae	3	195775	195775	3
+Nyamiviridae	3	11742.66667	11742.66667	3
+Ortervirales	25	8745.64	8745.64	25
+Orthomyxoviridae	7	12620.71429	1766.9	50
+Papillomaviridae	52	7678.25	7678.25	52
+Paramyxoviridae	7	16062	16062	7
+Partitiviridae	7	3461.285714	1730.642857	14
+Parvoviridae	13	5111.153846	5111.153846	13
+Peribunyaviridae	2	11748	3916	6
+Permutotetraviridae	1	6340	3170	2
+Phasmaviridae	1	11701	3900.333333	3
+Phenuiviridae	4	13001	4000.307692	13
+Phycodnaviridae	6	253751	253751	6
+Picobirnaviridae	0	0	0	0
+Picornavirales	58	8570.327586	7766.859375	64
+Picornaviridae	40	7816.15	7816.15	40
+Pithoviridae	1	683254	683254	1
+Plasmaviridae	1	11965	11965	1
+Pleolipoviridae	3	10628.33333	10628.33333	3
+Pneumoviridae	6	14148.83333	14148.83333	6
+Podoviridae	36	54120.08333	54120.08333	36
+Polycipiviridae	3	10909	10909	3
+Polydnaviridae	2	120733	9658.64	25
+Polyomaviridae	4	5114.25	5114.25	4
+Portogloboviridae	1	20222	20222	1
+Pospiviroidae	5	296.8	296.8	5
+Potyviridae	14	9340.714286	8718	15
+Poxviridae	13	167114.9231	167114.9231	13
+Pseudoviridae	3	6455	6455	3
+Quadriviridae	1	17078	4269.5	4
+RNA satellites	1	4994	4994	1
+Reoviridae	15	22680.26667	2209.116883	154
+Retro-transcribing viruses	11	10411.90909	10411.90909	11
+Retroviridae	11	10411.90909	10411.90909	11
+Rhabdoviridae	19	12293.36842	11122.57143	21
+Roniviridae	1	26253	26253	1
+Rudiviridae	1	35450	35450	1
+Sarthroviridae	1	796	796	1
+Satellite Nucleic Acids	1	1479	1479	1
+Satellite Viruses	1	1060	1060	
+Satellites	1	1479	1479	1
+Secoviridae	8	10983.875	6276.5	14
+Single stranded DNA satellites	1	1479	1479	1
+Single stranded RNA satellites	1	615	615	1
+Siphoviridae	131	56847.9084	56847.9084	131
+Smacoviridae	6	2583	2583	6
+Smacovirusgroup	6	2583	2583	6
+Small linear single stranded RNA satellites	1	415	415	1
+Solemoviridae	2	4394	4394	2
+Solinviviridae	2	10662	10662	2
+Sphaerolipoviridae	3	21422	21422	3
+Spiraviridae	1	24893	24893	1
+Statovirus	1	4253	4253	1
+Sunviridae	1	17187	17187	1
+Tectiviridae	2	14931	14931	2
+Tobacco necrosis satellite virus-like	1	1060	1060	1
+Togaviridae	6	11351.16667	11351.16667	6
+Tolecusatellitidae	2	1037.5	1037.5	2
+Tombusviridae	16	4188.6875	3942.294118	17
+Tospoviridae	1	16634	5544.666667	3
+Totiviridae	5	5193.2	5193.2	5
+Tristromaviridae	1	17714	17714	1
+Turriviridae	1	17663	17663	1
+Tymovirales	23	7137.26087	7137.26087	23
+Tymoviridae	3	6729	6729	3
+Unassigned	29	6736.896552	4070.208333	48
+Virgaviridae	6	9228.166667	4614.083333	12
+Viroids	1	415	415	1
+Virus-associated RNAs	1	415	415	1
+Viruses	1	8000	8000	1
+dsDNA viruses, no RNA stage	1	8000	8000	1
+dsRNA viruses	1	8000	8000	1
+environmental samples	1	8000	8000	1
+ssDNA satellites	1	1479	1479	1
+ssDNA viruses	1	8000	8000	1
+ssRNA negative-strand viruses	1	8000	8000	1
+ssRNA positive-strand viruses, no DNA stage	1	8000	8000	1
+ssRNA viruses	1	8000	8000	1
+unassigned Mononegavirales	48	13398.9375	12862.98	50
+unassigned Picornavirales	58	8570.327586	7766.859375	64
+unassigned ssRNA negative-strand viruses	1	8000	8000	1
+unassigned ssRNA viruses	1	8000	8000	1
+unassigned viruses	1	8000	8000	1
+unclassified Bunyavirales	13	13226.30769	4298.55	40
+unclassified Caudovirales	238	78554.10084	78554.10084	238
+unclassified Double-stranded satellite RNAs	1	1479	1479	1
+unclassified Flexiviridae	1	10644	10644	1
+unclassified Herpesvirales	19	163250.6316	96930.0625	32
+unclassified Mononegavirales	48	13398.9375	12862.98	50
+unclassified Nidovirales	13	21361.92308	18513.66667	15
+unclassified Picornavirales	58	8570.327586	7766.859375	64
+unclassified RNA viruses	1	1479	1479	1
+unclassified RNA viruses ShiM-2016	1	1479	1479	1
+unclassified Satellite Nucleic Acids	1	1479	1479	1
+unclassified Satellite Viruses	1	1479	1479	1
+unclassified Single stranded DNA satellites	1	1479	1479	1
+unclassified Single stranded RNA satellites	1	1479	1479	1
+unclassified Tobacco necrosis satellite virus-like	1	1479	1479	1
+unclassified Tymovirales	23	7137.26087	7137.26087	23
+unclassified archaeal dsDNA viruses	238	78554.10084	78554.10084	238
+unclassified archaeal viruses	238	78554.10084	78554.10084	238
+unclassified bacterial viruses	238	78554.10084	78554.10084	238
+unclassified dsDNA phages	238	78554.10084	78554.10084	238
+unclassified dsDNA viruses	1	8000	8000	1
+unclassified dsRNA viruses	1	8000	8000	1
+unclassified retroid viruses	1	8000	8000	1
+unclassified ssDNA bacterial viruses	238	78554.10084	78554.10084	238
+unclassified ssDNA satellites	1	1479	1479	1
+unclassified ssDNA viruses	238	78554.10084	78554.10084	238
+unclassified ssRNA negative-strand viruses	1	8000	8000	1
+unclassified ssRNA positive-strand viruses	1	8000	8000	1
+unclassified ssRNA viruses	1	8000	8000	1
+unclassified viroids	1	415	415	1
+unclassified virophages	1	415	415	1
+unclassified viruses	1	8000	8000	1
+uncultured environmental isolates	1	8000	8000	1
