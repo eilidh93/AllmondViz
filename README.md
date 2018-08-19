@@ -4,7 +4,7 @@ Heatmap visualisation tool for viral metagenomic data
 <font size="5">AllmondViz is a way of displaying viral metagenomic data in heatmap form.<br> It can be used as a way of visualising viral diversity, along with multiple other sorting options, within a sample or between multiple samples.<br><br>
 
 <br>
-AllmondViz is designed to follow on from the following pipeline: <br>
+AllmondViz is designed to follow on from the Allmond metagenomic pipeline (https://github.com/rjorton/Allmond) which does the following: <br>
 
 	1. Sequencing of metagenomic sample<br>
 	2. Trimming of reads<br>
